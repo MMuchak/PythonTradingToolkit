@@ -42,7 +42,6 @@ This repository contains several scripts and tools for trading. Here is a brief 
 - `Backtest_Vectorized.py`: A script for backtesting trading strategies on S&P 500 stocks using vectorized backtesting.
 - `crypto_trading_backtester.py`: A script for backtesting trading strategies on cryptocurrency data from Binance.
 - `directory_name/`: A directory containing related scripts and tools for a specific trading strategy or analysis.
-- `...`: More files and directories as the repository grows.
 
 ## Usage
 
